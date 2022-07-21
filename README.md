@@ -7,4 +7,4 @@ now enter your website:
 
 ||warning|| This is Only for education purpose only i am not responsiable for any bad activity.
 
-# script by ruking
+#script by ruking

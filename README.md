@@ -1,4 +1,4 @@
-# admin_penal
+# admin_panel
 #How to Use 
 #require python 2.7 on your ...anything
 #command "chmod +x admin_panel_finder.py"

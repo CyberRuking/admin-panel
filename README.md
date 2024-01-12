@@ -13,7 +13,7 @@
 
 +• cd admin-panel
 
-+•chmod +x admin_panel.py
++•sudo chmod +x admin_panel.py
 
 +• sudo python2 admin_panel.py [web target]
 
